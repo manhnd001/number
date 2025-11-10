@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Android_Number</string>
+    <string name="number_input_hint">Nhập số nguyên</string>
+    <string name="number_type_odd">Số lẻ</string>
+    <string name="number_type_even">Số chẵn</string>
+    <string name="number_type_prime">Số nguyên tố</string>
+    <string name="number_type_perfect">Số hoàn hảo</string>
+    <string name="number_type_square">Số chính phương</string>
+    <string name="number_type_fibonacci">Số Fibonacci</string>
+    <string name="no_numbers_message">Không có số nào thỏa mãn</string>
 </resources>
