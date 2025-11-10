@@ -1,0 +1,3 @@
+Lập trình ứng dụng hiển thị danh sách số nguyên theo yêu cầu:
++ Người dùng nhập số nguyên vào EditText và chọn 1 trong 6 loại số muốn hiển thị. Cần lập trình để chỉ lựa chọn 1 trong 6 loại.
++ Danh sách các số nguyên nhỏ hơn giá trị trong EditText được liệt kê trong danh sách bên dưới. Cần lập trình để danh sách được cập nhật ngay khi thay đổi giá trị số nguyên hoặc khi thay đổi lựa chọn loại số, nếu không có số nào thỏa mãn thì hiển thị thông báo bằng TextView thay cho danh sách với nội dung "Không có số nào thỏa mãn"
